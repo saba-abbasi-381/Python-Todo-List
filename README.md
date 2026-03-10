@@ -26,7 +26,7 @@ This project demonstrates Object-Oriented Programming (OOP) concepts and basic t
 
 Python-Todo-List
 │
-├── todo.py
+├── to_do.py
 └── README.md
 
 ---
@@ -37,7 +37,7 @@ Python-Todo-List
 2. Open terminal in the project folder
 3. Run the program
 
-python todo.py
+python to_do.py
 
 ---
 
@@ -47,12 +47,3 @@ python todo.py
 - Managing data using lists
 - Building a menu-driven command-line application
 - Basic task management logic
-
----
-
-⭐ Future Improvements
-
-- Save tasks using File I/O
-- Add task completion status
-- Add task deadlines
-- Create a graphical interface
